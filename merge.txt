@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aksdkjfndsakjfs
+=======
+h blahb blahdskafl;m;lm,';f.v
+Above sentence makes no sense at all
+>>>>>>> d98a8de5ecdd9aff74f2d00898ed78ae0902212b
