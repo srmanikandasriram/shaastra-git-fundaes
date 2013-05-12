@@ -1,9 +1,1 @@
-
-BURN!!!!
-Modified again
-
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
-d vhsjkl
+new
