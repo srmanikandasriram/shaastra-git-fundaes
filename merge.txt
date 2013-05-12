@@ -2,4 +2,7 @@
 BURN!!!!
 Modified again
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
